@@ -1,0 +1,100 @@
+% !TeX root = ./0_slides.tex
+
+\documentclass[aspectratio=1610]{beamer}
+\usetheme{Berlin}
+\usecolortheme{dolphin}
+
+\usepackage[absolute,overlay]{textpos}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{animate}
+\usepackage{wasysym}
+\usepackage{colortbl}
+\usepackage[yyyymmdd]{datetime}
+\usepackage{tikz}
+\usepackage{textgreek}
+\usepackage{amsmath}
+\DeclareFontFamily{U}{skulls}{}
+\DeclareFontShape{U}{skulls}{m}{n}{ <-> skull }{}
+\newcommand{\skull}{\text{\usefont{U}{skulls}{m}{n}\symbol{'101}}}
+\usetikzlibrary{tikzmark}
+\usetikzlibrary{positioning}
+\usetikzlibrary{arrows.meta}
+\usetikzlibrary{decorations.pathreplacing}
+
+\newcommand{\backupbegin}{
+	\newcounter{framenumberappendix}
+	\setcounter{framenumberappendix}{\value{framenumber}}
+}
+\newcommand{\backupend}{
+	\addtocounter{framenumberappendix}{-\value{framenumber}}
+	\addtocounter{framenumber}{\value{framenumberappendix}}
+}
+
+\newcommand{\barsep}
+{
+	\begin{column}{0.02\textwidth}
+		\centering
+		\rule{0.5mm}{0.7\textheight}
+	\end{column}
+}
+
+\AtBeginSection[]{
+	\begin{frame}[plain, noframenumbering]
+		\vfill
+		\centering
+		\begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
+			\usebeamerfont{title}\insertsectionhead\par%
+		\end{beamercolorbox}
+		\vfill
+	\end{frame}
+}
+
+\begin{document}
+	\setbeamertemplate{caption}{\raggedright\insertcaption\par}
+	\setbeamertemplate{sidebar right}{}
+	\setbeamertemplate{footline}{
+		\hfill\usebeamertemplate***{navigation symbols}
+		\hspace{1mm}\insertframenumber{}/\inserttotalframenumber\hspace{1mm}}
+	\setbeamertemplate{headline}
+	{
+		\leavevmode
+		\begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex]{section in head/foot}%
+			\hbox to .5\paperwidth{\hfil\insertsectionhead\hfil}
+		\end{beamercolorbox}
+		\begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex]{subsection in head/foot}%
+			\hbox to .5\paperwidth{\hfil\insertsubsectionhead\hfil}
+		\end{beamercolorbox}
+	}
+	
+	\title{SRAM cells under BBI / IC thermal analysis}
+	\subtitle{}
+	\author{\textbf{Geoffrey Chancel}}
+	\date{2024/03/25}
+	\titlegraphic{\includegraphics[width=3cm]{NewLogoLIRMM.pdf}}
+	\setlength{\abovecaptionskip}{-5pt plus 1pt minus 1pt}
+	\setlength{\belowcaptionskip}{-5pt plus 1pt minus 1pt}
+	\logo {
+		\begin{tikzpicture}[overlay,remember picture]
+			\node[left=0.2cm] at (current page.21){
+				\includegraphics[width=3cm]{NewLogoLIRMM.pdf}
+			};
+		\end{tikzpicture}
+	}
+	
+	% Title frame
+	\begin{frame}[plain, noframenumbering] % Title frame
+		\titlepage
+	\end{frame}
+	
+	\input{slide0.tex}
+	\input{slide1.tex}
+	\input{slide2.tex}
+	\input{slide3.tex}
+	\input{slide4.tex}
+	
+	\input{1slide0.tex}
+	\input{1slide1.tex}
+	\input{1slide2.tex}
+	
+\end{document}

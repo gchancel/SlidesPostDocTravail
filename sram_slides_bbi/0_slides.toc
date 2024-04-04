@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{6T SRAM CELL CMOS\_065}{2}{0}{1}
+\beamer@sectionintoc {2}{IC THERMAL ANALYSIS}{8}{0}{2}
