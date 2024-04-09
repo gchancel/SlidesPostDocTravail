@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.18)  4 APR 2024 12:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.18)  9 APR 2024 15:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -706,28 +706,56 @@ Package: amsthm 2020/05/29 v2.20.6
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerectangles.sty)
 ) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedolphin.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfpages.sty
+Package: pgfpages 2011/01/05 ver 0.02
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count334
+\calc@Bcount=\count335
+\calc@Adimen=\dimen294
+\calc@Bdimen=\dimen295
+\calc@Askip=\skip65
+\calc@Bskip=\skip66
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count336
+\calc@Cskip=\skip67
+)
+\pgf@logicalpages=\count337
+\pgf@firstshipout=\count338
+\pgf@lastshipout=\count339
+\pgf@currentshipout=\count340
+\pgf@cpn=\count341
+\pgf@shipoutnextto=\count342
+\pgfphysicalheight=\dimen296
+\pgfphysicalwidth=\dimen297
+\pgfpages@shipoutbox=\box76
+)
+\pgfpages@box@1=\box77
+
 (/usr/share/texlive/texmf-dist/tex/latex/textpos/textpos.sty
 Package: textpos 2022/07/23 v1.10.1
 Package textpos Info: choosing support for LaTeX3 on input line 60.
-\TP@textbox=\box76
-\TP@holdbox=\box77
-\TPHorizModule=\dimen294
-\TPVertModule=\dimen295
-\TP@margin=\dimen296
-\TP@absmargin=\dimen297
+\TP@textbox=\box78
+\TP@holdbox=\box79
+\TPHorizModule=\dimen298
+\TPVertModule=\dimen299
+\TP@margin=\dimen300
+\TP@absmargin=\dimen301
 
-Grid set 16 x 16 = 28.45274pt x 17.78296pt
-\TPboxrulesize=\dimen298
-\TP@ox=\dimen299
-\TP@oy=\dimen300
+Grid set 16 x 16 = 23.57512pt x 17.07166pt
+\TPboxrulesize=\dimen302
+\TP@ox=\dimen303
+\TP@oy=\dimen304
 \TP@tbargs=\toks45
 TextBlockOrigin set to 0pt x 0pt
 ) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip65
-\multirow@cntb=\count334
-\multirow@dima=\skip66
-\bigstrutjot=\dimen301
+\multirow@colwidth=\skip68
+\multirow@cntb=\count343
+\multirow@dima=\skip69
+\bigstrutjot=\dimen305
 )
 (/usr/share/texlive/texmf-dist/tex/latex/animate/animate.sty
 Package: animate 2022/09/15 PDF & SVG animations from files and inline graphics
@@ -739,30 +767,17 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty
 Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count335
-\calc@Bcount=\count336
-\calc@Adimen=\dimen302
-\calc@Bdimen=\dimen303
-\calc@Askip=\skip67
-\calc@Bskip=\skip68
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count337
-\calc@Cskip=\skip69
-)
 (/usr/share/texlive/texmf-dist/tex/latex/media9/pdfbase.sty
 Package: pdfbase 2022/08/04 v0.55 driver independent access to low-level PDF fe
 atures
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count338
-\l__pdf_internal_box=\box78
+\l__color_backend_stack_int=\count344
+\l__pdf_internal_box=\box80
 )
-\g_pbs_page_int=\count339
-\g_pbs_oc_int=\count340
+\g_pbs_page_int=\count345
+\g_pbs_oc_int=\count346
 )
 (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
 Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
@@ -773,30 +788,30 @@ Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 )
-\c@abspage=\count341
+\c@abspage=\count347
 Package zref Info: New property: abspage on input line 65.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/ocgx2/ocgbase.sty
 Package: ocgbase 2022/08/04 v0.22 support package for ocgx2.sty
-\g_ocgbase_nd_int=\count342
+\g_ocgbase_nd_int=\count348
 )
-\@anim@box=\box79
-\@anim@measbox=\box80
-\@anim@tmpdima=\dimen304
-\@anim@tmpdimb=\dimen305
-\@anim@num=\count343
-\@anim@curframe=\count344
-\@anim@curframe@zb=\count345
-\@anim@resizeflags=\count346
-\@anim@skipfram=\count347
-\@anim@mulframecnt=\count348
+\@anim@box=\box81
+\@anim@measbox=\box82
+\@anim@tmpdima=\dimen306
+\@anim@tmpdimb=\dimen307
+\@anim@num=\count349
+\@anim@curframe=\count350
+\@anim@curframe@zb=\count351
+\@anim@resizeflags=\count352
+\@anim@skipfram=\count353
+\@anim@mulframecnt=\count354
 \@anim@@tmlnfile=\read3
-\@anim@tmpcnt=\count349
-\c@@anim@ltxcnt=\count350
-\@anim@curlayer=\count351
-\@anim@lineno=\count352
-\@anim@curfield=\count353
-\@anim@@resizeflags=\count354
+\@anim@tmpcnt=\count355
+\c@@anim@ltxcnt=\count356
+\@anim@curlayer=\count357
+\@anim@lineno=\count358
+\@anim@curfield=\count359
+\@anim@@resizeflags=\count360
 )
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/wasysym.sty
 Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
@@ -809,17 +824,17 @@ Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen306
-\ar@mcellbox=\box81
-\extrarowheight=\dimen307
+\col@sep=\dimen308
+\ar@mcellbox=\box83
+\extrarowheight=\dimen309
 \NC@list=\toks46
 \extratabsurround=\skip70
 \backup@length=\skip71
-\ar@cellbox=\box82
+\ar@cellbox=\box84
 )
 \everycr=\toks47
 \minrowclearance=\skip72
-\rownum=\count355
+\rownum=\count361
 )
 (/usr/share/texlive/texmf-dist/tex/latex/datetime/datetime.sty
 Package: datetime 2015/03/20 v2.60 Date Time Package
@@ -835,7 +850,7 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks48
 \XKV@tempa@toks=\toks49
 )
-\XKV@depth=\count356
+\XKV@depth=\count362
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fcprefix.sty
@@ -843,38 +858,38 @@ Package: fcprefix 2012/09/28
 
 (/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
 Package: fcnumparser 2017/06/15
-\fc@digit@counter=\count357
+\fc@digit@counter=\count363
 ))
-\c@padzeroesN=\count358
-\fc@tmpcatcode=\count359
-\@DT@modctr=\count360
-\@ordinalctr=\count361
-\@orgargctr=\count362
-\@strctr=\count363
-\@tmpstrctr=\count364
-\@DT@loopN=\count365
-\@DT@X=\count366
+\c@padzeroesN=\count364
+\fc@tmpcatcode=\count365
+\@DT@modctr=\count366
+\@ordinalctr=\count367
+\@orgargctr=\count368
+\@strctr=\count369
+\@tmpstrctr=\count370
+\@DT@loopN=\count371
+\@DT@X=\count372
 )
 (/usr/share/texlive/texmf-dist/tex/latex/datetime/datetime-defaults.sty
 Package: datetime-defaults 2013/09/10
 )
-\@day=\count367
-\@month=\count368
-\@year=\count369
-\c@HOUR=\count370
-\c@HOURXII=\count371
-\c@MINUTE=\count372
-\c@TOHOUR=\count373
-\c@TOMINUTE=\count374
-\c@SECOND=\count375
-\currenthour=\count376
-\currentminute=\count377
-\currentsecond=\count378
+\@day=\count373
+\@month=\count374
+\@year=\count375
+\c@HOUR=\count376
+\c@HOURXII=\count377
+\c@MINUTE=\count378
+\c@TOHOUR=\count379
+\c@TOMINUTE=\count380
+\c@SECOND=\count381
+\currenthour=\count382
+\currentminute=\count383
+\currentsecond=\count384
 Package datetime Info: No datetime.cfg file found, using default settings on in
 put line 308.
-\@dtctr=\count379
-\dayofyear=\count380
-\dayofweek=\count381
+\@dtctr=\count385
+\dayofyear=\count386
+\dayofweek=\count387
 LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks50
 \dt@b=\toks51
@@ -885,15 +900,15 @@ Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box83
+\pgfnodeparttextbox=\box85
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
 .sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen308
-\pgf@nodesepend=\dimen309
+\pgf@nodesepstart=\dimen310
+\pgf@nodesepend=\dimen311
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
 .sty
@@ -901,8 +916,8 @@ Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen310
-\pgffor@skip=\dimen311
+\pgffor@iter=\dimen312
+\pgffor@skip=\dimen313
 \pgffor@stack=\toks52
 \pgffor@toks=\toks53
 ))
@@ -912,33 +927,33 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count382
-\pgfplotmarksize=\dimen312
+\pgf@plot@mark@count=\count388
+\pgfplotmarksize=\dimen314
 )
-\tikz@lastx=\dimen313
-\tikz@lasty=\dimen314
-\tikz@lastxsaved=\dimen315
-\tikz@lastysaved=\dimen316
-\tikz@lastmovetox=\dimen317
-\tikz@lastmovetoy=\dimen318
-\tikzleveldistance=\dimen319
-\tikzsiblingdistance=\dimen320
-\tikz@figbox=\box84
-\tikz@figbox@bg=\box85
-\tikz@tempbox=\box86
-\tikz@tempbox@bg=\box87
-\tikztreelevel=\count383
-\tikznumberofchildren=\count384
-\tikznumberofcurrentchild=\count385
-\tikz@fig@count=\count386
+\tikz@lastx=\dimen315
+\tikz@lasty=\dimen316
+\tikz@lastxsaved=\dimen317
+\tikz@lastysaved=\dimen318
+\tikz@lastmovetox=\dimen319
+\tikz@lastmovetoy=\dimen320
+\tikzleveldistance=\dimen321
+\tikzsiblingdistance=\dimen322
+\tikz@figbox=\box86
+\tikz@figbox@bg=\box87
+\tikz@tempbox=\box88
+\tikz@tempbox@bg=\box89
+\tikztreelevel=\count389
+\tikznumberofchildren=\count390
+\tikznumberofcurrentchild=\count391
+\tikz@fig@count=\count392
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count387
-\pgfmatrixcurrentcolumn=\count388
-\pgf@matrix@numberofcolumns=\count389
+\pgfmatrixcurrentrow=\count393
+\pgfmatrixcurrentcolumn=\count394
+\pgf@matrix@numberofcolumns=\count395
 )
-\tikz@expandcount=\count390
+\tikz@expandcount=\count396
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
@@ -1326,10 +1341,10 @@ Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2023-02-02 L3 Experimental document command parser
 )
-\l__sn_x_dim=\dimen321
-\l__sn_y_dim=\dimen322
-\l__sn_xa_dim=\dimen323
-\l__sn_ya_dim=\dimen324
+\l__sn_x_dim=\dimen323
+\l__sn_y_dim=\dimen324
+\l__sn_xa_dim=\dimen325
+\l__sn_ya_dim=\dimen326
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarypositioning.code.tex
@@ -1338,10 +1353,10 @@ File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.
 code.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen325
-\pgfarrowlength=\dimen326
-\pgfarrowwidth=\dimen327
-\pgfarrowlinewidth=\dimen328
+\pgfarrowinset=\dimen327
+\pgfarrowlength=\dimen328
+\pgfarrowwidth=\dimen329
+\pgfarrowlinewidth=\dimen330
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarydecorations.pathreplacing.code.tex
@@ -1349,47 +1364,47 @@ zlibrarydecorations.pathreplacing.code.tex
 zlibrarydecorations.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.cod
 e.tex
-\pgfdecoratedcompleteddistance=\dimen329
-\pgfdecoratedremainingdistance=\dimen330
-\pgfdecoratedinputsegmentcompleteddistance=\dimen331
-\pgfdecoratedinputsegmentremainingdistance=\dimen332
-\pgf@decorate@distancetomove=\dimen333
-\pgf@decorate@repeatstate=\count391
-\pgfdecorationsegmentamplitude=\dimen334
-\pgfdecorationsegmentlength=\dimen335
+\pgfdecoratedcompleteddistance=\dimen331
+\pgfdecoratedremainingdistance=\dimen332
+\pgfdecoratedinputsegmentcompleteddistance=\dimen333
+\pgfdecoratedinputsegmentremainingdistance=\dimen334
+\pgf@decorate@distancetomove=\dimen335
+\pgf@decorate@repeatstate=\count397
+\pgfdecorationsegmentamplitude=\dimen336
+\pgfdecorationsegmentlength=\dimen337
 )
-\tikz@lib@dec@box=\box88
+\tikz@lib@dec@box=\box90
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
 decorations.pathreplacing.code.tex)) (./0_slides.aux)
 \openout1 = `0_slides.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 53.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 56.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 5
-3.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    ... okay on input line 56.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1399,12 +1414,12 @@ LaTeX Font Info:    ... okay on input line 53.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(28.45274pt, 398.3386pt, 28.45274pt)
-* v-part:(T,H,B)=(0.0pt, 284.52756pt, 0.0pt)
-* \paperwidth=455.24408pt
-* \paperheight=284.52756pt
-* \textwidth=398.3386pt
-* \textheight=256.07483pt
+* h-part:(L,W,R)=(28.45274pt, 320.29659pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=377.20207pt
+* \paperheight=273.14662pt
+* \textwidth=320.29659pt
+* \textheight=244.6939pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
 * \topmargin=-72.26999pt
@@ -1427,16 +1442,16 @@ LaTeX Font Info:    ... okay on input line 53.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count392
-\scratchdimen=\dimen336
-\scratchbox=\box89
-\nofMPsegments=\count393
-\nofMParguments=\count394
+\scratchcounter=\count398
+\scratchdimen=\dimen338
+\scratchbox=\box91
+\nofMPsegments=\count399
+\nofMParguments=\count400
 \everyMPshowfont=\toks54
-\MPscratchCnt=\count395
-\MPscratchDim=\dimen337
-\MPnumerator=\count396
-\makeMPintoPDFobject=\count397
+\MPscratchCnt=\count401
+\MPscratchDim=\dimen339
+\MPnumerator=\count402
+\makeMPintoPDFobject=\count403
 \everyMPtoPDFconversion=\toks55
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1447,64 +1462,64 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 53.
+Package hyperref Info: Link coloring OFF on input line 56.
 
 (./0_slides.out) (./0_slides.out)
 \@outlinefile=\write5
 \openout5 = `0_slides.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 53.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 56.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 53.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 56.
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 53.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 53.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 53.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 53.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 56.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 53.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 53.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 53.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 56.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 53.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 53.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 53.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 56.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 53.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 53.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 56.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 53.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 56.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 53.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 53.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 53.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 53.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 53.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 53.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 53.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 56.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 56.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 5
-3.
+6.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 5
-3.
+6.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 53.
+ut line 56.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1536,461 +1551,594 @@ File: fc-english.def 2016/01/12
 (./0_slides.nav)
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 72.
+(hyperref)                setting the option has no effect on input line 75.
 
-<NewLogoLIRMM.pdf, id=46, 715.17188pt x 180.675pt>
+<NewLogoLIRMM.pdf, id=60, 715.17188pt x 180.675pt>
 File: NewLogoLIRMM.pdf Graphic file (type pdf)
 <use NewLogoLIRMM.pdf>
-Package pdftex.def Info: NewLogoLIRMM.pdf  used on input line 88.
+Package pdftex.def Info: NewLogoLIRMM.pdf  used on input line 91.
 (pdftex.def)             Requested size: 85.35826pt x 21.56427pt.
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./NewLogoLIRMM.pdf>]
 (./slide0.tex [2
 
-]
-<./figures/sram_simulated.pdf, id=110, 236.9522pt x 104.45718pt>
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./NewLogoLIRMM.pdf>]
+<./figures/sram_simulated.pdf, id=117, 236.9522pt x 104.45718pt>
 File: ./figures/sram_simulated.pdf Graphic file (type pdf)
 <use ./figures/sram_simulated.pdf>
-Package pdftex.def Info: ./figures/sram_simulated.pdf  used on input line 15.
-(pdftex.def)             Requested size: 398.3386pt x 175.61116pt.
+Package pdftex.def Info: ./figures/sram_simulated.pdf  used on input line 8.
+(pdftex.def)             Requested size: 320.29659pt x 141.20554pt.
 
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [3
 
- <./figures/sram_simulated.pdf>]) (./slide1.tex
-LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
 
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 19
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 21
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 19.
+ut line 21.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-<./figures/SRAMBBI0-300DW.pdf, id=147, 650.43pt x 597.08783pt>
-File: ./figures/SRAMBBI0-300DW.pdf Graphic file (type pdf)
-<use ./figures/SRAMBBI0-300DW.pdf>
-Package pdftex.def Info: ./figures/SRAMBBI0-300DW.pdf  used on input line 19.
-(pdftex.def)             Requested size: 199.1693pt x 182.83583pt.
-<./figures/SRAMBBI2-300DW.pdf, id=148, 650.43pt x 597.08783pt>
-File: ./figures/SRAMBBI2-300DW.pdf Graphic file (type pdf)
-<use ./figures/SRAMBBI2-300DW.pdf>
-Package pdftex.def Info: ./figures/SRAMBBI2-300DW.pdf  used on input line 19.
-(pdftex.def)             Requested size: 199.1693pt x 182.83583pt.
+<./figures/SRAMBBI0_zLOW.pdf, id=147, 650.43pt x 632.3625pt>
+File: ./figures/SRAMBBI0_zLOW.pdf Graphic file (type pdf)
+<use ./figures/SRAMBBI0_zLOW.pdf>
+Package pdftex.def Info: ./figures/SRAMBBI0_zLOW.pdf  used on input line 21.
+(pdftex.def)             Requested size: 160.14828pt x 155.69727pt.
+<./figures/SRAMBBI0_zHIGH.pdf, id=148, 650.43pt x 632.3625pt>
+File: ./figures/SRAMBBI0_zHIGH.pdf Graphic file (type pdf)
+<use ./figures/SRAMBBI0_zHIGH.pdf>
+Package pdftex.def Info: ./figures/SRAMBBI0_zHIGH.pdf  used on input line 21.
+(pdftex.def)             Requested size: 160.14828pt x 155.69727pt.
 
-Overfull \vbox (16.0936pt too high) detected at line 19
- []
-
-
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [4
 
- <./figures/SRAMBBI0-300DW.pdf> <./figures/SRAMBBI2-300DW.pdf>])
-(./slide2.tex
-<./figures/SRAMBBI0-300TW.pdf, id=258, 650.43pt x 597.08783pt>
-File: ./figures/SRAMBBI0-300TW.pdf Graphic file (type pdf)
-<use ./figures/SRAMBBI0-300TW.pdf>
-Package pdftex.def Info: ./figures/SRAMBBI0-300TW.pdf  used on input line 19.
-(pdftex.def)             Requested size: 199.1693pt x 182.83583pt.
-<./figures/SRAMBBI2-300TW.pdf, id=259, 650.43pt x 597.08783pt>
-File: ./figures/SRAMBBI2-300TW.pdf Graphic file (type pdf)
-<use ./figures/SRAMBBI2-300TW.pdf>
-Package pdftex.def Info: ./figures/SRAMBBI2-300TW.pdf  used on input line 19.
-(pdftex.def)             Requested size: 199.1693pt x 182.83583pt.
+ <./figures/sram_simulated.pdf>]) (./slide1.tex
+<./figures/SRAMBBI0_zHIGH_DW-300.pdf, id=185, 650.43pt x 597.08783pt>
+File: ./figures/SRAMBBI0_zHIGH_DW-300.pdf Graphic file (type pdf)
+<use ./figures/SRAMBBI0_zHIGH_DW-300.pdf>
+Package pdftex.def Info: ./figures/SRAMBBI0_zHIGH_DW-300.pdf  used on input lin
+e 19.
+(pdftex.def)             Requested size: 160.14828pt x 147.0121pt.
+<./figures/SRAMBBI2_zHIGH_DW-300.pdf, id=186, 650.43pt x 597.08783pt>
+File: ./figures/SRAMBBI2_zHIGH_DW-300.pdf Graphic file (type pdf)
+<use ./figures/SRAMBBI2_zHIGH_DW-300.pdf>
+Package pdftex.def Info: ./figures/SRAMBBI2_zHIGH_DW-300.pdf  used on input lin
+e 19.
+(pdftex.def)             Requested size: 160.14828pt x 147.0121pt.
 
-Overfull \vbox (16.0936pt too high) detected at line 19
- []
-
-
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [5
 
- <./figures/SRAMBBI0-300TW.pdf> <./figures/SRAMBBI2-300TW.pdf>])
-(./slide3.tex
-<./figures/SRAMBBI0-300DW_q0.pdf, id=365, 650.43pt x 597.08783pt>
-File: ./figures/SRAMBBI0-300DW_q0.pdf Graphic file (type pdf)
-<use ./figures/SRAMBBI0-300DW_q0.pdf>
-Package pdftex.def Info: ./figures/SRAMBBI0-300DW_q0.pdf  used on input line 19
-.
-(pdftex.def)             Requested size: 199.1693pt x 182.83583pt.
-<./figures/SRAMBBI2-300DW_q0.pdf, id=366, 650.43pt x 597.08783pt>
-File: ./figures/SRAMBBI2-300DW_q0.pdf Graphic file (type pdf)
-<use ./figures/SRAMBBI2-300DW_q0.pdf>
-Package pdftex.def Info: ./figures/SRAMBBI2-300DW_q0.pdf  used on input line 19
-.
-(pdftex.def)             Requested size: 199.1693pt x 182.83583pt.
+ <./figures/SRAMBBI0_zLOW.pdf> <./figures/SRAMBBI0_zHIGH.pdf
 
-Overfull \vbox (16.0936pt too high) detected at line 19
- []
+pdfTeX warning: /usr/bin/pdflatex (file ./figures/SRAMBBI0_zHIGH.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+>]) (./slide2.tex
+<./figures/SRAMBBI0_zHIGH_TW-300.pdf, id=710, 650.43pt x 597.08783pt>
+File: ./figures/SRAMBBI0_zHIGH_TW-300.pdf Graphic file (type pdf)
+<use ./figures/SRAMBBI0_zHIGH_TW-300.pdf>
+Package pdftex.def Info: ./figures/SRAMBBI0_zHIGH_TW-300.pdf  used on input lin
+e 19.
+(pdftex.def)             Requested size: 160.14828pt x 147.0121pt.
+<./figures/SRAMBBI2_zHIGH_TW-300.pdf, id=711, 650.43pt x 597.08783pt>
+File: ./figures/SRAMBBI2_zHIGH_TW-300.pdf Graphic file (type pdf)
+<use ./figures/SRAMBBI2_zHIGH_TW-300.pdf>
+Package pdftex.def Info: ./figures/SRAMBBI2_zHIGH_TW-300.pdf  used on input lin
+e 19.
+(pdftex.def)             Requested size: 160.14828pt x 147.0121pt.
 
-
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [6
 
- <./figures/SRAMBBI0-300DW_q0.pdf> <./figures/SRAMBBI2-300DW_q0.pdf>])
-(./slide4.tex
-<./figures/SRAMBBI0-300TW_q0.pdf, id=471, 650.43pt x 597.08783pt>
-File: ./figures/SRAMBBI0-300TW_q0.pdf Graphic file (type pdf)
-<use ./figures/SRAMBBI0-300TW_q0.pdf>
-Package pdftex.def Info: ./figures/SRAMBBI0-300TW_q0.pdf  used on input line 19
-.
-(pdftex.def)             Requested size: 199.1693pt x 182.83583pt.
-<./figures/SRAMBBI2-300TW_q0.pdf, id=472, 650.43pt x 597.08783pt>
-File: ./figures/SRAMBBI2-300TW_q0.pdf Graphic file (type pdf)
-<use ./figures/SRAMBBI2-300TW_q0.pdf>
-Package pdftex.def Info: ./figures/SRAMBBI2-300TW_q0.pdf  used on input line 19
-.
-(pdftex.def)             Requested size: 199.1693pt x 182.83583pt.
+ <./figures/SRAMBBI0_zHIGH_DW-300.pdf> <./figures/SRAMBBI2_zHIGH_DW-300.pdf>]) 
+(./slide3.tex
+<./figures/SRAMBBI0_zLOW_DW-300.pdf, id=818, 650.43pt x 597.08783pt>
+File: ./figures/SRAMBBI0_zLOW_DW-300.pdf Graphic file (type pdf)
+<use ./figures/SRAMBBI0_zLOW_DW-300.pdf>
+Package pdftex.def Info: ./figures/SRAMBBI0_zLOW_DW-300.pdf  used on input line
+ 19.
+(pdftex.def)             Requested size: 160.14828pt x 147.0121pt.
+<./figures/SRAMBBI2_zLOW_DW-300.pdf, id=819, 650.43pt x 597.08783pt>
+File: ./figures/SRAMBBI2_zLOW_DW-300.pdf Graphic file (type pdf)
+<use ./figures/SRAMBBI2_zLOW_DW-300.pdf>
+Package pdftex.def Info: ./figures/SRAMBBI2_zLOW_DW-300.pdf  used on input line
+ 19.
+(pdftex.def)             Requested size: 160.14828pt x 147.0121pt.
 
-Overfull \vbox (16.0936pt too high) detected at line 19
- []
-
-
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [7
 
- <./figures/SRAMBBI0-300TW_q0.pdf> <./figures/SRAMBBI2-300TW_q0.pdf>])
-(./1slide0.tex [8
+ <./figures/SRAMBBI0_zHIGH_TW-300.pdf> <./figures/SRAMBBI2_zHIGH_TW-300.pdf>]) 
+(./slide4.tex
+<./figures/SRAMBBI0_zLOW_TW-300.pdf, id=927, 650.43pt x 597.08783pt>
+File: ./figures/SRAMBBI0_zLOW_TW-300.pdf Graphic file (type pdf)
+<use ./figures/SRAMBBI0_zLOW_TW-300.pdf>
+Package pdftex.def Info: ./figures/SRAMBBI0_zLOW_TW-300.pdf  used on input line
+ 19.
+(pdftex.def)             Requested size: 160.14828pt x 147.0121pt.
+<./figures/SRAMBBI2_zLOW_TW-300.pdf, id=928, 650.43pt x 597.08783pt>
+File: ./figures/SRAMBBI2_zLOW_TW-300.pdf Graphic file (type pdf)
+<use ./figures/SRAMBBI2_zLOW_TW-300.pdf>
+Package pdftex.def Info: ./figures/SRAMBBI2_zLOW_TW-300.pdf  used on input line
+ 19.
+(pdftex.def)             Requested size: 160.14828pt x 147.0121pt.
 
-]) (./1slide1.tex
-<./figures/flistCircuit1_25_sl30beta0.pdf, id=606, 635.37375pt x 578.16pt>
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
+[][] [][][] 
+ []
+
+[8
+
+ <./figures/SRAMBBI0_zLOW_DW-300.pdf> <./figures/SRAMBBI2_zLOW_DW-300.pdf>])
+(./1slide0.tex [9
+
+ <./figures/SRAMBBI0_zLOW_TW-300.pdf> <./figures/SRAMBBI2_zLOW_TW-300.pdf>]) (.
+/1slide1.tex
+<./figures/flistCircuit1_25_sl30beta0.pdf, id=1140, 635.37375pt x 578.16pt>
 File: ./figures/flistCircuit1_25_sl30beta0.pdf Graphic file (type pdf)
 <use ./figures/flistCircuit1_25_sl30beta0.pdf>
 Package pdftex.def Info: ./figures/flistCircuit1_25_sl30beta0.pdf  used on inpu
 t line 13.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
-<./figures/flistCircuit1_25_sl30r2.pdf, id=607, 635.37375pt x 578.16pt>
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
+<./figures/flistCircuit1_25_sl30r2.pdf, id=1141, 635.37375pt x 578.16pt>
 File: ./figures/flistCircuit1_25_sl30r2.pdf Graphic file (type pdf)
 <use ./figures/flistCircuit1_25_sl30r2.pdf>
 Package pdftex.def Info: ./figures/flistCircuit1_25_sl30r2.pdf  used on input l
 ine 13.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
 13.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
-[][] [][][] 
- []
-
-[9
-
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./fi
-gures/flistCircuit1_25_sl30beta0.pdf> <./figures/flistCircuit1_25_sl30r2.pdf>]
-<./figures/flistCircuit2_25_sl30_2beta0.pdf, id=728, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit2_25_sl30_2beta0.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit2_25_sl30_2beta0.pdf>
-Package pdftex.def Info: ./figures/flistCircuit2_25_sl30_2beta0.pdf  used on in
-put line 25.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
-<./figures/flistCircuit2_25_sl30_2r2.pdf, id=729, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit2_25_sl30_2r2.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit2_25_sl30_2r2.pdf>
-Package pdftex.def Info: ./figures/flistCircuit2_25_sl30_2r2.pdf  used on input
- line 25.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
-
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [10
 
- <./figures/flistCircuit2_25_sl30_2beta0.pdf> <./figures/flistCircuit2_25_sl30_
-2r2.pdf>]
-<./figures/flistCircuit3_25_sl30beta0.pdf, id=848, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit3_25_sl30beta0.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit3_25_sl30beta0.pdf>
-Package pdftex.def Info: ./figures/flistCircuit3_25_sl30beta0.pdf  used on inpu
-t line 37.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
-<./figures/flistCircuit3_25_sl30r2.pdf, id=849, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit3_25_sl30r2.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit3_25_sl30r2.pdf>
-Package pdftex.def Info: ./figures/flistCircuit3_25_sl30r2.pdf  used on input l
-ine 37.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
+]
+<./figures/flistCircuit2_25_sl30_2beta0.pdf, id=1172, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit2_25_sl30_2beta0.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit2_25_sl30_2beta0.pdf>
+Package pdftex.def Info: ./figures/flistCircuit2_25_sl30_2beta0.pdf  used on in
+put line 25.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
+<./figures/flistCircuit2_25_sl30_2r2.pdf, id=1173, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit2_25_sl30_2r2.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit2_25_sl30_2r2.pdf>
+Package pdftex.def Info: ./figures/flistCircuit2_25_sl30_2r2.pdf  used on input
+ line 25.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
 
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [11
 
- <./figures/flistCircuit3_25_sl30beta0.pdf> <./figures/flistCircuit3_25_sl30r2.
-pdf>]
-<./figures/flistCircuit4_25_sl30beta0.pdf, id=967, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit4_25_sl30beta0.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit4_25_sl30beta0.pdf>
-Package pdftex.def Info: ./figures/flistCircuit4_25_sl30beta0.pdf  used on inpu
-t line 49.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
-<./figures/flistCircuit4_25_sl30r2.pdf, id=968, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit4_25_sl30r2.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit4_25_sl30r2.pdf>
-Package pdftex.def Info: ./figures/flistCircuit4_25_sl30r2.pdf  used on input l
-ine 49.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./fi
+gures/flistCircuit1_25_sl30beta0.pdf> <./figures/flistCircuit1_25_sl30r2.pdf>]
+<./figures/flistCircuit3_25_sl30beta0.pdf, id=1293, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit3_25_sl30beta0.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit3_25_sl30beta0.pdf>
+Package pdftex.def Info: ./figures/flistCircuit3_25_sl30beta0.pdf  used on inpu
+t line 37.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
+<./figures/flistCircuit3_25_sl30r2.pdf, id=1294, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit3_25_sl30r2.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit3_25_sl30r2.pdf>
+Package pdftex.def Info: ./figures/flistCircuit3_25_sl30r2.pdf  used on input l
+ine 37.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
 
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [12
 
- <./figures/flistCircuit4_25_sl30beta0.pdf> <./figures/flistCircuit4_25_sl30r2.
-pdf>]
-<./figures/flistCircuit6_25_sl30beta0.pdf, id=1088, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit6_25_sl30beta0.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit6_25_sl30beta0.pdf>
-Package pdftex.def Info: ./figures/flistCircuit6_25_sl30beta0.pdf  used on inpu
-t line 61.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
-<./figures/flistCircuit6_25_sl30r2.pdf, id=1089, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit6_25_sl30r2.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit6_25_sl30r2.pdf>
-Package pdftex.def Info: ./figures/flistCircuit6_25_sl30r2.pdf  used on input l
-ine 61.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
+ <./figures/flistCircuit2_25_sl30_2beta0.pdf> <./figures/flistCircuit2_25_sl30_
+2r2.pdf>]
+<./figures/flistCircuit4_25_sl30beta0.pdf, id=1414, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit4_25_sl30beta0.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit4_25_sl30beta0.pdf>
+Package pdftex.def Info: ./figures/flistCircuit4_25_sl30beta0.pdf  used on inpu
+t line 49.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
+<./figures/flistCircuit4_25_sl30r2.pdf, id=1415, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit4_25_sl30r2.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit4_25_sl30r2.pdf>
+Package pdftex.def Info: ./figures/flistCircuit4_25_sl30r2.pdf  used on input l
+ine 49.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
 
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [13
 
- <./figures/flistCircuit6_25_sl30beta0.pdf> <./figures/flistCircuit6_25_sl30r2.
+ <./figures/flistCircuit3_25_sl30beta0.pdf> <./figures/flistCircuit3_25_sl30r2.
 pdf>]
-<./figures/flistCircuit7_25_sl30beta0.pdf, id=1208, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit7_25_sl30beta0.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit7_25_sl30beta0.pdf>
-Package pdftex.def Info: ./figures/flistCircuit7_25_sl30beta0.pdf  used on inpu
-t line 73.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
-<./figures/flistCircuit7_25_sl30r2.pdf, id=1209, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit7_25_sl30r2.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit7_25_sl30r2.pdf>
-Package pdftex.def Info: ./figures/flistCircuit7_25_sl30r2.pdf  used on input l
-ine 73.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
+<./figures/flistCircuit6_25_sl30beta0.pdf, id=1533, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit6_25_sl30beta0.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit6_25_sl30beta0.pdf>
+Package pdftex.def Info: ./figures/flistCircuit6_25_sl30beta0.pdf  used on inpu
+t line 61.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
+<./figures/flistCircuit6_25_sl30r2.pdf, id=1534, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit6_25_sl30r2.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit6_25_sl30r2.pdf>
+Package pdftex.def Info: ./figures/flistCircuit6_25_sl30r2.pdf  used on input l
+ine 61.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
 
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [14
 
- <./figures/flistCircuit7_25_sl30beta0.pdf> <./figures/flistCircuit7_25_sl30r2.
+ <./figures/flistCircuit4_25_sl30beta0.pdf> <./figures/flistCircuit4_25_sl30r2.
 pdf>]
-<./figures/flistCircuit8_25_sl30beta0.pdf, id=1329, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit8_25_sl30beta0.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit8_25_sl30beta0.pdf>
-Package pdftex.def Info: ./figures/flistCircuit8_25_sl30beta0.pdf  used on inpu
-t line 85.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
-<./figures/flistCircuit8_25_sl30r2.pdf, id=1330, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit8_25_sl30r2.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit8_25_sl30r2.pdf>
-Package pdftex.def Info: ./figures/flistCircuit8_25_sl30r2.pdf  used on input l
-ine 85.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
+<./figures/flistCircuit7_25_sl30beta0.pdf, id=1654, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit7_25_sl30beta0.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit7_25_sl30beta0.pdf>
+Package pdftex.def Info: ./figures/flistCircuit7_25_sl30beta0.pdf  used on inpu
+t line 73.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
+<./figures/flistCircuit7_25_sl30r2.pdf, id=1655, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit7_25_sl30r2.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit7_25_sl30r2.pdf>
+Package pdftex.def Info: ./figures/flistCircuit7_25_sl30r2.pdf  used on input l
+ine 73.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
 
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [15
 
- <./figures/flistCircuit8_25_sl30beta0.pdf> <./figures/flistCircuit8_25_sl30r2.
+ <./figures/flistCircuit6_25_sl30beta0.pdf> <./figures/flistCircuit6_25_sl30r2.
 pdf>]
-<./figures/flistCircuit9_25_sl30beta0.pdf, id=1449, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit9_25_sl30beta0.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit9_25_sl30beta0.pdf>
-Package pdftex.def Info: ./figures/flistCircuit9_25_sl30beta0.pdf  used on inpu
-t line 97.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
-<./figures/flistCircuit9_25_sl30r2.pdf, id=1450, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit9_25_sl30r2.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit9_25_sl30r2.pdf>
-Package pdftex.def Info: ./figures/flistCircuit9_25_sl30r2.pdf  used on input l
-ine 97.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
+<./figures/flistCircuit8_25_sl30beta0.pdf, id=1774, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit8_25_sl30beta0.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit8_25_sl30beta0.pdf>
+Package pdftex.def Info: ./figures/flistCircuit8_25_sl30beta0.pdf  used on inpu
+t line 85.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
+<./figures/flistCircuit8_25_sl30r2.pdf, id=1775, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit8_25_sl30r2.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit8_25_sl30r2.pdf>
+Package pdftex.def Info: ./figures/flistCircuit8_25_sl30r2.pdf  used on input l
+ine 85.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
 
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [16
 
- <./figures/flistCircuit9_25_sl30beta0.pdf> <./figures/flistCircuit9_25_sl30r2.
+ <./figures/flistCircuit7_25_sl30beta0.pdf> <./figures/flistCircuit7_25_sl30r2.
 pdf>]
-<./figures/flistCircuit10_25_sl5_2beta0.pdf, id=1570, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit10_25_sl5_2beta0.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit10_25_sl5_2beta0.pdf>
-Package pdftex.def Info: ./figures/flistCircuit10_25_sl5_2beta0.pdf  used on in
-put line 109.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
-<./figures/flistCircuit10_25_sl5_2r2.pdf, id=1571, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit10_25_sl5_2r2.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit10_25_sl5_2r2.pdf>
-Package pdftex.def Info: ./figures/flistCircuit10_25_sl5_2r2.pdf  used on input
- line 109.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
+<./figures/flistCircuit9_25_sl30beta0.pdf, id=1894, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit9_25_sl30beta0.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit9_25_sl30beta0.pdf>
+Package pdftex.def Info: ./figures/flistCircuit9_25_sl30beta0.pdf  used on inpu
+t line 97.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
+<./figures/flistCircuit9_25_sl30r2.pdf, id=1895, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit9_25_sl30r2.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit9_25_sl30r2.pdf>
+Package pdftex.def Info: ./figures/flistCircuit9_25_sl30r2.pdf  used on input l
+ine 97.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
 
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [17
 
- <./figures/flistCircuit10_25_sl5_2beta0.pdf> <./figures/flistCircuit10_25_sl5_
-2r2.pdf>]
-<./figures/flistCircuit11_25_sl30beta0.pdf, id=1688, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit11_25_sl30beta0.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit11_25_sl30beta0.pdf>
-Package pdftex.def Info: ./figures/flistCircuit11_25_sl30beta0.pdf  used on inp
-ut line 121.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
-<./figures/flistCircuit11_25_sl30r2.pdf, id=1689, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit11_25_sl30r2.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit11_25_sl30r2.pdf>
-Package pdftex.def Info: ./figures/flistCircuit11_25_sl30r2.pdf  used on input 
-line 121.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
+ <./figures/flistCircuit8_25_sl30beta0.pdf> <./figures/flistCircuit8_25_sl30r2.
+pdf>]
+<./figures/flistCircuit10_25_sl5_2beta0.pdf, id=2015, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit10_25_sl5_2beta0.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit10_25_sl5_2beta0.pdf>
+Package pdftex.def Info: ./figures/flistCircuit10_25_sl5_2beta0.pdf  used on in
+put line 109.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
+<./figures/flistCircuit10_25_sl5_2r2.pdf, id=2016, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit10_25_sl5_2r2.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit10_25_sl5_2r2.pdf>
+Package pdftex.def Info: ./figures/flistCircuit10_25_sl5_2r2.pdf  used on input
+ line 109.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
 
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [18
 
- <./figures/flistCircuit11_25_sl30beta0.pdf> <./figures/flistCircuit11_25_sl30r
-2.pdf>]
-<./figures/flistCircuit12_25_sl30_2beta0.pdf, id=1808, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit12_25_sl30_2beta0.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit12_25_sl30_2beta0.pdf>
-Package pdftex.def Info: ./figures/flistCircuit12_25_sl30_2beta0.pdf  used on i
-nput line 133.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
-<./figures/flistCircuit12_25_sl30_2r2.pdf, id=1809, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit12_25_sl30_2r2.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit12_25_sl30_2r2.pdf>
-Package pdftex.def Info: ./figures/flistCircuit12_25_sl30_2r2.pdf  used on inpu
-t line 133.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
+ <./figures/flistCircuit9_25_sl30beta0.pdf> <./figures/flistCircuit9_25_sl30r2.
+pdf>]
+<./figures/flistCircuit11_25_sl30beta0.pdf, id=2135, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit11_25_sl30beta0.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit11_25_sl30beta0.pdf>
+Package pdftex.def Info: ./figures/flistCircuit11_25_sl30beta0.pdf  used on inp
+ut line 121.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
+<./figures/flistCircuit11_25_sl30r2.pdf, id=2136, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit11_25_sl30r2.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit11_25_sl30r2.pdf>
+Package pdftex.def Info: ./figures/flistCircuit11_25_sl30r2.pdf  used on input 
+line 121.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
 
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [19
 
- <./figures/flistCircuit12_25_sl30_2beta0.pdf> <./figures/flistCircuit12_25_sl3
-0_2r2.pdf>]
-<./figures/flistCircuit14_25_sl30beta0.pdf, id=1929, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit14_25_sl30beta0.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit14_25_sl30beta0.pdf>
-Package pdftex.def Info: ./figures/flistCircuit14_25_sl30beta0.pdf  used on inp
-ut line 145.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
-<./figures/flistCircuit14_25_sl30r2.pdf, id=1930, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit14_25_sl30r2.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit14_25_sl30r2.pdf>
-Package pdftex.def Info: ./figures/flistCircuit14_25_sl30r2.pdf  used on input 
-line 145.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
+ <./figures/flistCircuit10_25_sl5_2beta0.pdf> <./figures/flistCircuit10_25_sl5_
+2r2.pdf>]
+<./figures/flistCircuit12_25_sl30_2beta0.pdf, id=2254, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit12_25_sl30_2beta0.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit12_25_sl30_2beta0.pdf>
+Package pdftex.def Info: ./figures/flistCircuit12_25_sl30_2beta0.pdf  used on i
+nput line 133.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
+<./figures/flistCircuit12_25_sl30_2r2.pdf, id=2255, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit12_25_sl30_2r2.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit12_25_sl30_2r2.pdf>
+Package pdftex.def Info: ./figures/flistCircuit12_25_sl30_2r2.pdf  used on inpu
+t line 133.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
 
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [20
 
- <./figures/flistCircuit14_25_sl30beta0.pdf> <./figures/flistCircuit14_25_sl30r
+ <./figures/flistCircuit11_25_sl30beta0.pdf> <./figures/flistCircuit11_25_sl30r
 2.pdf>]
-<./figures/flistCircuit25_25_sl30beta0.pdf, id=2050, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit25_25_sl30beta0.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit25_25_sl30beta0.pdf>
-Package pdftex.def Info: ./figures/flistCircuit25_25_sl30beta0.pdf  used on inp
-ut line 157.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
-<./figures/flistCircuit25_25_sl30r2.pdf, id=2051, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit25_25_sl30r2.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit25_25_sl30r2.pdf>
-Package pdftex.def Info: ./figures/flistCircuit25_25_sl30r2.pdf  used on input 
-line 157.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
+<./figures/flistCircuit14_25_sl30beta0.pdf, id=2374, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit14_25_sl30beta0.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit14_25_sl30beta0.pdf>
+Package pdftex.def Info: ./figures/flistCircuit14_25_sl30beta0.pdf  used on inp
+ut line 145.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
+<./figures/flistCircuit14_25_sl30r2.pdf, id=2375, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit14_25_sl30r2.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit14_25_sl30r2.pdf>
+Package pdftex.def Info: ./figures/flistCircuit14_25_sl30r2.pdf  used on input 
+line 145.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
 
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [21
 
- <./figures/flistCircuit25_25_sl30beta0.pdf> <./figures/flistCircuit25_25_sl30r
-2.pdf>]
-<./figures/flistCircuit26_25_sl30beta0.pdf, id=2171, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit26_25_sl30beta0.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit26_25_sl30beta0.pdf>
-Package pdftex.def Info: ./figures/flistCircuit26_25_sl30beta0.pdf  used on inp
-ut line 169.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
-<./figures/flistCircuit26_25_sl30r2.pdf, id=2172, 635.37375pt x 578.16pt>
-File: ./figures/flistCircuit26_25_sl30r2.pdf Graphic file (type pdf)
-<use ./figures/flistCircuit26_25_sl30r2.pdf>
-Package pdftex.def Info: ./figures/flistCircuit26_25_sl30r2.pdf  used on input 
-line 169.
-(pdftex.def)             Requested size: 199.1693pt x 181.23033pt.
+ <./figures/flistCircuit12_25_sl30_2beta0.pdf> <./figures/flistCircuit12_25_sl3
+0_2r2.pdf>]
+<./figures/flistCircuit25_25_sl30beta0.pdf, id=2495, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit25_25_sl30beta0.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit25_25_sl30beta0.pdf>
+Package pdftex.def Info: ./figures/flistCircuit25_25_sl30beta0.pdf  used on inp
+ut line 157.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
+<./figures/flistCircuit25_25_sl30r2.pdf, id=2496, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit25_25_sl30r2.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit25_25_sl30r2.pdf>
+Package pdftex.def Info: ./figures/flistCircuit25_25_sl30r2.pdf  used on input 
+line 157.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
 
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [22
 
- <./figures/flistCircuit26_25_sl30beta0.pdf> <./figures/flistCircuit26_25_sl30r
-2.pdf>]) (./1slide2.tex
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
+ <./figures/flistCircuit14_25_sl30beta0.pdf> <./figures/flistCircuit14_25_sl30r
+2.pdf>]
+<./figures/flistCircuit26_25_sl30beta0.pdf, id=2616, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit26_25_sl30beta0.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit26_25_sl30beta0.pdf>
+Package pdftex.def Info: ./figures/flistCircuit26_25_sl30beta0.pdf  used on inp
+ut line 169.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
+<./figures/flistCircuit26_25_sl30r2.pdf, id=2617, 635.37375pt x 578.16pt>
+File: ./figures/flistCircuit26_25_sl30r2.pdf Graphic file (type pdf)
+<use ./figures/flistCircuit26_25_sl30r2.pdf>
+Package pdftex.def Info: ./figures/flistCircuit26_25_sl30r2.pdf  used on input 
+line 169.
+(pdftex.def)             Requested size: 160.14828pt x 145.72179pt.
+
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
 [][] [][][] 
  []
 
 [23
 
-])
+ <./figures/flistCircuit25_25_sl30beta0.pdf> <./figures/flistCircuit25_25_sl30r
+2.pdf>]) (./1slide2.tex
+Overfull \hbox (18.41292pt too wide) in paragraph at lines 51--51
+ [] 
+ []
+
+
+Overfull \vbox (20.32831pt too high) detected at line 51
+ []
+
+
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
+[][] [][][] 
+ []
+
+[24
+
+ <./figures/flistCircuit26_25_sl30beta0.pdf> <./figures/flistCircuit26_25_sl30r
+2.pdf>]) (./2slide0.tex [25
+
+]
+<./figures/CORE65GPSVT_HS65_GS_DFPQX4.pdf, id=2883, 447.17062pt x 266.49562pt>
+File: ./figures/CORE65GPSVT_HS65_GS_DFPQX4.pdf Graphic file (type pdf)
+<use ./figures/CORE65GPSVT_HS65_GS_DFPQX4.pdf>
+Package pdftex.def Info: ./figures/CORE65GPSVT_HS65_GS_DFPQX4.pdf  used on inpu
+t line 8.
+(pdftex.def)             Requested size: 320.29659pt x 190.88857pt.
+
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
+[][] [][][] 
+ []
+
+[26
+
+]
+<./figures/IVX_BUFF_X4.pdf, id=2912, 600.35309pt x 263.81113pt>
+File: ./figures/IVX_BUFF_X4.pdf Graphic file (type pdf)
+<use ./figures/IVX_BUFF_X4.pdf>
+Package pdftex.def Info: ./figures/IVX_BUFF_X4.pdf  used on input line 14.
+(pdftex.def)             Requested size: 320.29659pt x 140.74507pt.
+
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
+[][] [][][] 
+ []
+
+[27
+
+ <./figures/CORE65GPSVT_HS65_GS_DFPQX4.pdf>]
+<./figures/dff_ivx_chain.pdf, id=2949, 845.04674pt x 597.50786pt>
+File: ./figures/dff_ivx_chain.pdf Graphic file (type pdf)
+<use ./figures/dff_ivx_chain.pdf>
+Package pdftex.def Info: ./figures/dff_ivx_chain.pdf  used on input line 22.
+(pdftex.def)             Requested size: 412.56496pt x 291.71469pt.
+
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
+[][] [][][] 
+ []
+
+[28
+
+ <./figures/IVX_BUFF_X4.pdf>]
+<./figures/DFPX4_idle_nLow.pdf, id=2985, 1084.05pt x 722.7pt>
+File: ./figures/DFPX4_idle_nLow.pdf Graphic file (type pdf)
+<use ./figures/DFPX4_idle_nLow.pdf>
+Package pdftex.def Info: ./figures/DFPX4_idle_nLow.pdf  used on input line 28.
+(pdftex.def)             Requested size: 320.29659pt x 213.52547pt.
+
+Overfull \vbox (19.06448pt too high) detected at line 28
+ []
+
+
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
+[][] [][][] 
+ []
+
+[29
+
+ <./figures/dff_ivx_chain.pdf>]
+<./figures/DFPX4_bbi_nLow.pdf, id=3021, 1084.05pt x 722.7pt>
+File: ./figures/DFPX4_bbi_nLow.pdf Graphic file (type pdf)
+<use ./figures/DFPX4_bbi_nLow.pdf>
+Package pdftex.def Info: ./figures/DFPX4_bbi_nLow.pdf  used on input line 34.
+(pdftex.def)             Requested size: 320.29659pt x 213.52547pt.
+
+Overfull \vbox (19.06448pt too high) detected at line 34
+ []
+
+
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
+[][] [][][] 
+ []
+
+[30
+
+ <./figures/DFPX4_idle_nLow.pdf>]
+<./figures/DFPX4_idle_nHigh.pdf, id=3086, 1084.05pt x 722.7pt>
+File: ./figures/DFPX4_idle_nHigh.pdf Graphic file (type pdf)
+<use ./figures/DFPX4_idle_nHigh.pdf>
+Package pdftex.def Info: ./figures/DFPX4_idle_nHigh.pdf  used on input line 40.
+
+(pdftex.def)             Requested size: 320.29659pt x 213.52547pt.
+
+Overfull \vbox (19.06448pt too high) detected at line 40
+ []
+
+
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
+[][] [][][] 
+ []
+
+[31
+
+ <./figures/DFPX4_bbi_nLow.pdf>]
+<./figures/DFPX4_bbi_nHigh.pdf, id=3151, 1084.05pt x 722.7pt>
+File: ./figures/DFPX4_bbi_nHigh.pdf Graphic file (type pdf)
+<use ./figures/DFPX4_bbi_nHigh.pdf>
+Package pdftex.def Info: ./figures/DFPX4_bbi_nHigh.pdf  used on input line 46.
+(pdftex.def)             Requested size: 320.29659pt x 213.52547pt.
+
+Overfull \vbox (19.06448pt too high) detected at line 46
+ []
+
+
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
+[][] [][][] 
+ []
+
+[32
+
+ <./figures/DFPX4_idle_nHigh.pdf>]
+Overfull \hbox (1.41667pt too wide) has occurred while \output is active
+[][] [][][] 
+ []
+
+[33
+
+ <./figures/DFPX4_bbi_nHigh.pdf>])
 \tf@nav=\write6
 \openout6 = `0_slides.nav'.
 
@@ -2000,15 +2148,22 @@ Overfull \hbox (1.41669pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `0_slides.snm'.
 
- (./0_slides.aux)
+ [34
+
+]
+
+LaTeX Warning: Hook 'shipout/lastpage' executed on wrong page (32 not 33).
+               Rerun to correct this.
+
+(./0_slides.aux)
 Package rerunfilecheck Info: File `0_slides.out' has not changed.
-(rerunfilecheck)             Checksum: 41ACE173BA393607ADFCBDC520B5D958;304.
+(rerunfilecheck)             Checksum: ADB453C1DE0DF2CFA800E054664A759F;479.
  ) 
 Here is how much of TeX's memory you used:
- 30394 strings out of 476034
- 622116 string characters out of 5792864
- 1875388 words of memory out of 6000000
- 50099 multiletter control sequences out of 15000+600000
+ 30722 strings out of 476034
+ 631114 string characters out of 5792864
+ 1880388 words of memory out of 6000000
+ 50391 multiletter control sequences out of 15000+600000
  520330 words of font info for 61 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  128i,16n,122p,1007b,690s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2023,10 +2178,10 @@ pe1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super
 /sfss1440.pfb>
-Output written on 0_slides.pdf (23 pages, 806620 bytes).
+Output written on 0_slides.pdf (33 pages, 1241461 bytes).
 PDF statistics:
- 2382 PDF objects out of 2487 (max. 8388607)
- 964 compressed objects within 10 object streams
- 49 named destinations out of 1000 (max. 500000)
- 249 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3349 PDF objects out of 3580 (max. 8388607)
+ 1598 compressed objects within 16 object streams
+ 70 named destinations out of 1000 (max. 500000)
+ 302 words of extra memory for PDF output out of 10000 (max. 10000000)
 

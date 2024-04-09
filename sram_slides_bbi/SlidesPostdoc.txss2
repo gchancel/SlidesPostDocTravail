@@ -1,0 +1,96 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "0_slides.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "2slide0.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "0_slides.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 104
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "slide0.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 20
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "slide1.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 18
+            },
+            {
+                "Col": 56,
+                "EditorGroup": 0,
+                "FileName": "slide2.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 15
+            },
+            {
+                "Col": 56,
+                "EditorGroup": 0,
+                "FileName": "slide3.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 15
+            },
+            {
+                "Col": 63,
+                "EditorGroup": 0,
+                "FileName": "slide4.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 15
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "1slide0.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 18
+            },
+            {
+                "Col": 87,
+                "EditorGroup": 0,
+                "FileName": "1slide1.tex",
+                "FirstLine": 121,
+                "FoldedLines": "",
+                "Line": 134
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "1slide2.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "2slide0.tex",
+                "FirstLine": 17,
+                "FoldedLines": "",
+                "Line": 50
+            }
+        ],
+        "MasterFile": "",
+        "VerticalSplit": false
+    }
+}
