@@ -6,7 +6,7 @@
     "Session": {
         "Bookmarks": [
         ],
-        "CurrentFile": "2slide0.tex",
+        "CurrentFile": "1slide2.tex",
         "FileVersion": 1,
         "Files": [
             {
@@ -66,28 +66,28 @@
                 "Line": 18
             },
             {
-                "Col": 87,
-                "EditorGroup": 0,
-                "FileName": "1slide1.tex",
-                "FirstLine": 121,
-                "FoldedLines": "",
-                "Line": 134
-            },
-            {
                 "Col": 0,
                 "EditorGroup": 0,
-                "FileName": "1slide2.tex",
-                "FirstLine": 0,
+                "FileName": "1slide1.tex",
+                "FirstLine": 136,
                 "FoldedLines": "",
-                "Line": 0
+                "Line": 168
+            },
+            {
+                "Col": 16,
+                "EditorGroup": 0,
+                "FileName": "1slide2.tex",
+                "FirstLine": 34,
+                "FoldedLines": "",
+                "Line": 58
             },
             {
                 "Col": 0,
                 "EditorGroup": 0,
                 "FileName": "2slide0.tex",
-                "FirstLine": 17,
+                "FirstLine": 2,
                 "FoldedLines": "",
-                "Line": 50
+                "Line": 7
             }
         ],
         "MasterFile": "",
